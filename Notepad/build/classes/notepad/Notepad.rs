@@ -1,9 +1,0 @@
-Notepad$gaListener
-Notepad$Clos_option
-Notepad$Past_option
-Notepad$Cop_option
-Notepad
-Notepad$Ope_option
-Notepad$Cu_option
-Notepad$Ne_option
-Notepad$Sav_option
